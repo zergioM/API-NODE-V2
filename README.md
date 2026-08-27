@@ -92,7 +92,7 @@ Models (Sequelize)
 ## Clonar repositorio
 
 ```bash
-git clone 
+git clone https://github.com/zergioM/API-NODE-V2.git
 ```
 
 Entrar al proyecto
